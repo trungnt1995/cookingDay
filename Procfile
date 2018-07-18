@@ -1,1 +1,1 @@
-web: sh target/bin/www
+web: sh bin/www
